@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ietahgaso.form-function.co.uk/sitemap.xml
